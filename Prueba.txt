@@ -2,3 +2,6 @@ Texto prueba
 
 
 Colaborador
+
+
+Esta es la carpeta principal
